@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a web/app developers<br>ai developers and reserachers<br>build lot of the projects
+i'm a web/app developers<br>ai developers and reserachers<br>build lot of projects
 
 
 ## 🌐 Socials:
