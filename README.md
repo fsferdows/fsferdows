@@ -1,6 +1,5 @@
 About Me:
-i'm a web/app developer<br>ai developer and reseracher<br>build lot of projects
-
+Ai Researcher & Developer. (Software/ website developer) ( UI/UX designer ) ( Writer and philosopher)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fsferdows) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fsferdows) 
