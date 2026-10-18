@@ -15,6 +15,23 @@
 
 ---
 
+## 🏆 Profile Highlights & Verified Credentials
+
+<div align="center">
+
+| Highlight | Domain & Role | Status |
+| :--- | :--- | :---: |
+| ⭐ **GitHub Pro Verified** | Developer tier with advanced developer tooling, verified pro badge & private repo CI | `ACTIVE` |
+| 🦁 **OpenBrowser Architect** | Creator & Lead Maintainer of OpenBrowser: autonomous AI browser with Chromium CDP | `PRODUCTION` |
+| 🧠 **Autonomous AI Systems** | Specialized in unaligned Heretic intelligence, self-healing selectors & multi-agent swarms | `SPECIALIST` |
+| 🛡️ **HackSuite Workstation** | Built-in CORS-bypassed HTTP repeater, attack surface analyzer & JWT decoders | `SECOPS` |
+| 🏢 **Engineering at LateBright** | Crafting high-performance distributed systems, state-of-the-art UI/UX & web apps | `TECH LEAD` |
+| 📍 **Dhaka, Bangladesh** | Engineering global-grade open-source systems for hackers and researchers worldwide | `GLOBAL` |
+
+</div>
+
+---
+
 ### 🦁 Featured Flagship: [OpenBrowser](https://github.com/fsferdows/OpenBrowser)
 
 <a href="https://github.com/fsferdows/OpenBrowser">
