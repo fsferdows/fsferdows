@@ -15,15 +15,26 @@
 
 ---
 
-## 🏆 Profile Highlights & Verified Credentials
+## 🏆 GitHub Achievements & Trophy Showcase
+
+<div align="center">
+  <a href="https://github.com/fsferdows">
+    <img src="https://github-profile-trophy.vercel.app/?username=fsferdows&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" width="100%" alt="GitHub Profile Trophies" />
+  </a>
+</div>
+
+---
+
+## ⚡ Profile Highlights & Verified Credentials
 
 <div align="center">
 
 | Highlight | Domain & Role | Status |
 | :--- | :--- | :---: |
-| ⭐ **GitHub Pro Verified** | Developer tier with advanced developer tooling, verified pro badge & private repo CI | `ACTIVE` |
+| ⚡ **J.A.R.V.I.S. Architect** | Creator & Lead AI Architect of real-life Iron Man JARVIS (OmniVoice + OmniRoute) | `FLAGSHIP` |
 | 🦁 **OpenBrowser Architect** | Creator & Lead Maintainer of OpenBrowser: autonomous AI browser with Chromium CDP | `PRODUCTION` |
-| 🧠 **Autonomous AI Systems** | Specialized in unaligned Heretic intelligence, self-healing selectors & multi-agent swarms | `SPECIALIST` |
+| ⭐ **GitHub Pro Verified** | Developer tier with advanced developer tooling, verified pro badge & private repo CI | `ACTIVE` |
+| 🧠 **Autonomous AI Systems** | Specialized in unaligned intelligence, self-healing selectors & multi-agent swarms | `SPECIALIST` |
 | 🛡️ **HackSuite Workstation** | Built-in CORS-bypassed HTTP repeater, attack surface analyzer & JWT decoders | `SECOPS` |
 | 🏢 **Engineering at LateBright** | Crafting high-performance distributed systems, state-of-the-art UI/UX & web apps | `TECH LEAD` |
 | 📍 **Dhaka, Bangladesh** | Engineering global-grade open-source systems for hackers and researchers worldwide | `GLOBAL` |
@@ -32,7 +43,23 @@
 
 ---
 
-### 🦁 Featured Flagship: [OpenBrowser](https://github.com/fsferdows/OpenBrowser)
+## 🌟 Featured Flagships
+
+### ⚡ [J.A.R.V.I.S. — Real-Life Autonomous Iron Man Butler](https://github.com/fsferdows/Jarvis)
+
+<a href="https://github.com/fsferdows/Jarvis">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=fsferdows&repo=Jarvis&theme=tokyonight&border_color=3b82f6&hide_border=false" width="46%" alt="Jarvis Repo Card">
+</a>
+
+> **Zero-Shot Cloned Voice (Sub-500ms on Apple Silicon MPS), OmniRoute 350+ Model Routing, and Real-World OS Control**
+>
+> A production-grade autonomous desktop butler inspired by Tony Stark's J.A.R.V.I.S. Featuring an interactive Three.js Arc Reactor HUD, zero-screenshot browser perception, REA reverse engineering engine (153 commands), and native macOS automation.
+>
+> ⭐️ **[Explore J.A.R.V.I.S. on GitHub →](https://github.com/fsferdows/Jarvis)**
+
+<br clear="both"/>
+
+### 🦁 [OpenBrowser — Autonomous AI Agentic Browser](https://github.com/fsferdows/OpenBrowser)
 
 <a href="https://github.com/fsferdows/OpenBrowser">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=fsferdows&repo=OpenBrowser&theme=tokyonight&border_color=ff5722&hide_border=false" width="46%" alt="OpenBrowser Repo Card">
@@ -65,9 +92,9 @@
 <p>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Heretic_Engine-Refusal--Free-red?style=flat-square&logo=openai&logoColor=white" alt="Heretic"/>
+  <img src="https://img.shields.io/badge/OmniVoice-Sub--500ms_TTS-blue?style=flat-square" alt="OmniVoice"/>
   <img src="https://img.shields.io/badge/OmniRoute-Multi--Provider-orange?style=flat-square" alt="OmniRoute"/>
-  <img src="https://img.shields.io/badge/FreeLLMAPI-Zero--Cost-brightgreen?style=flat-square" alt="FreeLLMAPI"/>
+  <img src="https://img.shields.io/badge/REA_Engine-153_Tools-purple?style=flat-square" alt="REA"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
@@ -78,7 +105,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
   <img src="https://img.shields.io/badge/Chromium_CDP-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chromium CDP"/>
 </p>
 
